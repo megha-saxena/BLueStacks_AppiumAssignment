@@ -1,0 +1,1 @@
+1.Application should be already installed in the testing device before starting the test as when installing the app with apk file was corrupting the app.
